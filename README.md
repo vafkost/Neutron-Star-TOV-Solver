@@ -23,7 +23,7 @@ The following plots illustrate the Mass-Radius sequences for different Equations
 
 | Hadronic Stars | CFL Quark Stars |
 |---|---|
-| ![Hadronic MR](plots/Hadronic_MR.jpg) | ![CFL MR](plots/CFL_MR.jpg) |
+| ![Hadronic MR](plots/Hadronic_MR.png) | ![CFL MR](plots/CFL_MR.png) |
 
 ### 2. Hybrid Stars & Phase Transitions
 Modeling the transition from hadronic matter to quark matter using Maxwell construction. The plot shows the hybrid branches and the effect of the transition on stellar stability.
@@ -33,4 +33,4 @@ Modeling the transition from hadronic matter to quark matter using Maxwell const
 ### 3. CFL Stability Window
 Analysis of the thermodynamic stability of the Color-Flavor Locked phase relative to the nuclear binding energy ($930 \, \text{MeV}$), showing the dependence on the Bag constant $B$ and the gap parameter $\Delta$.
 
-![CFL Stability](plots/CFL_stabillity.jpg)
+![CFL Stability](plots/CFL_stabillity.png)
