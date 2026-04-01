@@ -16,3 +16,21 @@ This repository contains the numerical framework developed for my undergraduate 
 ## Physical Background
 The project investigates the effect of the QCD Cooper-pair gap ($\Delta$) and the bag constant ($B$) on the stability and maximum mass of neutron stars, comparing results with observational constraints from **GW170817** and **NICER**.
 
+## Scientific Results & Visualizations
+
+### 1. Mass-Radius Relations
+The following plots illustrate the Mass-Radius sequences for different Equations of State (EoS). The shaded regions and markers represent observational constraints from **NICER** and **GW170817**.
+
+| Hadronic Stars | CFL Quark Stars |
+|---|---|
+| ![Hadronic MR](plots/Hadronic_MR.jpg) | ![CFL MR](plots/CFL_MR.jpg) |
+
+### 2. Hybrid Stars & Phase Transitions
+Modeling the transition from hadronic matter to quark matter using Maxwell construction. The plot shows the hybrid branches and the effect of the transition on stellar stability.
+
+![Hybrid MR](plots/Hybrid_MR.png)
+
+### 3. CFL Stability Window
+Analysis of the thermodynamic stability of the Color-Flavor Locked phase relative to the nuclear binding energy ($930 \, \text{MeV}$), showing the dependence on the Bag constant $B$ and the gap parameter $\Delta$.
+
+![CFL Stability](plots/CFL_stabillity.jpg)
