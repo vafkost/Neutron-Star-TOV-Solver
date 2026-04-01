@@ -19,18 +19,18 @@ The project investigates the effect of the QCD Cooper-pair gap ($\Delta$) and th
 ## Scientific Results & Visualizations
 
 ### 1. Mass-Radius Relations
-The following plots illustrate the Mass-Radius sequences for different Equations of State (EoS). The shaded regions and markers represent observational constraints from **NICER** and **GW170817**.
+The following plots illustrate the Mass-Radius sequences for different Equations of State (EoS) models being either purely hadronic or in the Color-Flavor Locked (CFL) phase . The shaded regions and markers represent observational constraints from **NICER** and **GW170817**.
 
 | Hadronic Stars | CFL Quark Stars |
 |---|---|
 | ![Hadronic MR](plots/Hadronic_MR.png) | ![CFL MR](plots/CFL_MR.png) |
 
 ### 2. Hybrid Stars & Phase Transitions
-Modeling the transition from hadronic matter to quark matter using Maxwell construction. The plot shows the hybrid branches and the effect of the transition on stellar stability.
+Modeling the transition from hadronic matter to quark matter using Maxwell construction. The plot shows the hybrid branches under variating parameters and the effect of the transition on stellar configurations.
 
 ![Hybrid MR](plots/Hybrid_MR.png)
 
 ### 3. CFL Stability Window
-Analysis of the thermodynamic stability of the Color-Flavor Locked phase relative to the nuclear binding energy ($930 \, \text{MeV}$), showing the dependence on the Bag constant $B$ and the gap parameter $\Delta$.
+Analysis of the thermodynamic stability of the Color-Flavor Locked phase relative to the nuclear binding energy ($930 \, \text{MeV}$), showing the dependence on the Bag constant $B$ and the gap parameter $\Delta$. We identify these conditions under which pure quark stars can exist
 
 ![CFL Stability](plots/CFL_stabillity.png)
