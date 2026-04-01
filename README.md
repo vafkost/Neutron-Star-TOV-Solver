@@ -34,3 +34,8 @@ Modeling the transition from hadronic matter to quark matter using Maxwell const
 Analysis of the thermodynamic stability of the Color-Flavor Locked phase relative to the nuclear binding energy ($930 \, \text{MeV}$), showing the dependence on the Bag constant $B$ and the gap parameter $\Delta$. We identify these conditions under which pure quark stars can exist
 
 ![CFL Stability](plots/CFL_stabillity.png)
+
+## Thesis
+This repository is based on my undergraduate thesis: 
+**"Computational Modeling of Neutron Stars: Mass-Radius Relations and Tidal Deformability for Hadronic, Hybrid and CFL Quark Equations of State"**.
+You can find the full text in PDF format [here](thesis/thesis.pdf).
